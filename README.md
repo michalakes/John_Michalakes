@@ -32,10 +32,10 @@ Liz Jessup
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {semester} {year} |                   |
-| Area Exam            | {semester} {year} | {semester} {year} |
-| Proposal Defense     | {semester} {year} | {semester} {year} |
-| Dissertation Defense | {semester} {year} | {semester} {year} |
+| Start                | {Fall} {2007} |                   |
+| Area Exam            | {Spring} {2011} | {semester} {year} |
+| Proposal Defense     | {Spring} {2013} | {semester} {year} |
+| Dissertation Defense | {semester} {year} | {Spring} {2015} |
 
 ## Courses
 
