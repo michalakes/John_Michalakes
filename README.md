@@ -9,58 +9,59 @@ John Michalakes
 John.Michalakes@Colorado.EDU
 
 ## Photo
-![profile photo](files/)
+![profile photo](files/JohnMichalakes.jpg)
 
 ## Website
+[http://l3dswiki.cs.colorado.edu:3232/phd-intro-2007/34](http://l3dswiki.cs.colorado.edu:3232/phd-intro-2007/34)
 
 
 # Current Funding
-Self-supported.
+Intel Parallel Computing Center, University of Colorado Department of Research Computing, Supervisor: Thomas Hauser (Director)
 
 # PhD Program
+Accelerators for High-Performance Weather and Climate Modeling
 
 ## Thesis Advisor
 Liz Jessup
 
 ## Committee
 
-
 * Richard Loft (NCAR) Dirk Grunwald (CU) Manish Vachharajani (Lightspeed & CU) Steve Hammond (NREL) Jeremy Siek (Indiana U.)
-
 
 ## Milestones
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {semester} {year} |                   |
-| Area Exam            | {semester} {year} | {semester} {year} |
-| Proposal Defense     | {semester} {year} | {semester} {year} |
-| Dissertation Defense | {semester} {year} | {semester} {year} |
+| Start                | Fall, 2007        |                   |
+| Area Exam            | Spring, 2011      |                   |
+| Proposal Defense     | Spring, 2013      |                   |
+| Dissertation Defense |                   | Spring, 2015       |
 
 ## Courses
 
-| Course           | Taken             | Planned            | Depth    | Breadth | 
-| ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| Course                               | Taken             | Planned            | Depth    | Breadth | 
+| ----------------                     | ----------------- | ------------------ | -------- | ------- |
+| CSCI 7900 Intro. to Phd               | Fall 2007        |                    |          |         |
+| CSCI 7143 Topics in Computer Systems  | Fall 2007        |                    |  yes     |         |
+| CSCI 5753 Computer Perform. Modeling  | Spring 2007      |                    |  yes     |         |
+| CSCI 5636 Num. Solution of PDEs       | Spring 2009      |                    |  yes     |         |
 
 # Research
+* Application of accelerators (MIC and GPU) to weather and climate models. 
 
 ## Publications
 
-
-* Invited presentation, “Lessons learned using accelerators for chemical mechanisms,” ACITES Chemical Mechanism Computational Workshop. Nov. 2013.  https://eventbooking.stfc.ac.uk/news-events/acites
-* Invited seminar, “Lessons learned using accelerators for chemical mechanisms,” Advanced Research Computing Group, Daresbury Laboratory, Warrington, U.K.  CITES Chemical Mechanism Computational Workshop.  Nov. 2013
-* Presentation, “Code restructuring to improve performance in WRF mdel physics on Intel Xeon Phi”, NCAR/NOAA Multicore Workshop, Sept. 2013. http://data1.gfdl.noaa.gov/multi-core/agenda
-
+* Michalakes, Iacono, Jessup.  Optimizing Weather Model Radiative Transfer Physics for Intel's Many Integrated Core (MIC), Architecture.  Submitted to SC14 program April, 2014 (but not accepted).  Preprint: http://www.Michalakes.us/michalakes_2014_web_preprint.pdf
 
 ## Presentations
 
-* {what,where,when} [pptx](files/presentation-file.pptx)
+* NOAA Operational Forecasting and the HPC Imperative. 16th ECMWF Workshop on High Performance Computing in Meteorology.  European Center for Medium-Range Weather Forecasts, Reading, UK.  October, 2014. http://www.ecmwf.int/en/workshop-high-performance-computing-meteorology. http://www.ecmwf.int/sites/default/files/HPC-WS-Michalakes.pdf
+* Optimizing Weather Model Radiative Transfer Physics for the Many Integrated Core and GPGPU Architectures.  2014 Heterogeneous Multi-Core 4 Workshop, National Center for Atmospheric Research, Boulder, Colorado, Sept. 2014.  https://www2.cisl.ucar.edu/sites/default/files/michalakes_1.pdf
+* Performance-related Developments in WRF. Fifteenth WRF Users Workshop.  National Center for Atmospheric Research, Boulder, Colorado, June 2014.  http://www2.mmm.ucar.edu/wrf/users/workshops/WS2014/ppts/1.4.pdf
+* Invited presentation, "Lessons learned using accelerators for chemical mechanisms," ACITES Chemical Mechanism Computational Workshop. Nov. 2013.  https://eventbooking.stfc.ac.uk/news-events/acites
+* Presentation, "Code restructuring to improve performance in WRF mdel physics on Intel Xeon Phi", NCAR/NOAA Multicore Workshop, Sept. 2013. http://data1.gfdl.noaa.gov/multi-core/agenda
+
+##* {what,where,when} [pptx](files/presentation-file.pptx)
 * {what,where,when} [pptx](files/presentation-file.pptx)
 * {what,where,when} [pptx](files/presentation-file.pptx)
       
@@ -69,15 +70,7 @@ Liz Jessup
 
 # Teaching
 
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
-
 # Service
-
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
 
 # Highlights
 
